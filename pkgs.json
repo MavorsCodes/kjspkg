@@ -95,5 +95,6 @@
     "hex-playground-yc-19": "YukkuriC/hex_playground@1.19",
 
     "titanors-dynamic-seasons-kubejs-script": "Titanor-Soulstone/kubejs-titanors-dynamic-seasons-kubejs-script",
-    "titanors-rtc-module": "Titanor-Soulstone/kubejs-titanors-rtc-module"
+    "titanors-rtc-module": "Titanor-Soulstone/kubejs-titanors-rtc-module",
+    "shipping-bin": "Chakyl/kubejs-shipping-bin"
 }
